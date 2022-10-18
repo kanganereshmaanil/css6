@@ -4,7 +4,7 @@
 }
 /* Body */
 body{
-    background:url(../shara\ desert.jpg);
+    background:url(./aset.html/shara\ desert.jpg);
     background-size: cover;
 }
 /* Navbar */
@@ -105,19 +105,19 @@ body{
     opacity: 90%;
 }
 #box1::before{
-    background: url("../pic-1.png");
+    background: url("./aset.html/pic-1.png");
     background-size:cover;
 }
 #box2::before{
-    background: url("../pic-2.png");  
+    background: url("./aset.html/pic-2.png");  
     background-size:cover;
 }
 #box3::before{
-    background: url("../pic-3.png");
+    background: url("./aset.html/pic-3.png");
     background-size:cover;
 }
 #box4::before{
-    background: url("../pic-4.png");
+    background: url("./aset.html/pic-4.png");
     background-size:cover;
 }
 .box_text{
